@@ -1,4 +1,5 @@
 /*
+
 Shark Tank India Data Exploration
 
 Skills used: Joins, Windows Functions, Aggregate Functions, Converting Data Types
